@@ -16,7 +16,7 @@ public class Main {
         CCuenta cuenta1;
         double saldoActual;
         int opcion=0;
-        cuenta1 = new CCuenta("Juan López","1000-2365-85-123456789",2500,0);
+        cuenta1 = new CCuenta("Jun López","1000-2365-85-123456789",2500,0);
         do{
             try {
                 System.out.println("MENÚ DE OPERACIONES");
